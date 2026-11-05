@@ -1,2 +1,17 @@
-# UZID-Releases
-UZID game launcher and downloadable game updates.
+# UZID
+
+## 다운로드
+
+[UZID.exe 다운로드](https://github.com/majinsae/UZID-Releases/releases/latest/download/UZID.exe)
+
+Windows PC에서 위 앱을 받아 실행하세요. 런처가 게임을 내려받아 설치하고 실행합니다.
+
+## 자동 업데이트
+
+같은 UZID.exe를 다시 실행하면 최신 버전을 확인하고, 새 버전이 있으면 다운로드·검증·설치한 뒤 게임을 시작합니다. 게임 중인 경우에는 게임을 종료한 뒤 다시 실행해 주세요.
+
+게임은 사용자 앱 데이터 폴더에 설치되며 GitHub 로그인 없이 다운로드할 수 있습니다.
+
+## 개발용 로컬 테스트
+
+현재 테스트 버전에서는 메인메뉴의 로컬 테스트를 이용해 혼자 플레이하거나 같은 PC의 게임 창 두 개로 테스트할 수 있습니다.
